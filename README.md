@@ -39,9 +39,3 @@ Your bmi is 22.86, you have normal weight.
 ```
 
 ---
-
-**Short Description for GitHub:** 
-"Python BMI calculator that computes Body Mass Index from height/weight input and categorizes results according to standard health ranges."
-
-**Topics/Tags:** 
-`python` `bmi-calculator` `health` `console-application` `beginner-friendly` `cli-tool`
